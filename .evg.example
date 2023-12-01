@@ -1,0 +1,17 @@
+SECRET_KEY='django-insecure-4$-8z-)dg!4u$y$p$ruhusungmst9uewi&&j#h4i*2tjep@qjh'
+DEBUG='true'
+ALLOWED_HOSTS='["*"]'
+
+USE_POSTGRES='false'
+POSTGRES_DB='carmarket'
+POSTGRES_USER='hadzhiscars'
+POSTGRES_PASSWORD='2003'
+POSTGRES_HOST='localhost'
+POSTGRES_PORT='5432'
+
+EMAIL_HOST='smtp.gmail.com'
+EMAIL_USE_TLS='true'
+EMAIL_USE_SSL='false'
+EMAIL_PORT='587'
+EMAIL_HOST_USER='hadzhi.00703@gmail.com'
+EMAIL_HOST_PASSWORD='cwthdinocznlqims'
